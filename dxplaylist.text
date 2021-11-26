@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,MAASRANGA TV
+#EXTINF:-1,MAASRANGA TV Tasik
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
 #EXTINF:-1,EKATTOR TV
 http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
